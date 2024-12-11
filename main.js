@@ -82,7 +82,7 @@ function enterKey(e) {
 
 function commander(cmd) {
   switch (cmd.toLowerCase()) {
-    case "help":
+    case "kroak":
       loopLines(help, "color2 margin", 80);
       break;
     case "date":
