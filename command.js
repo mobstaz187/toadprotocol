@@ -172,7 +172,7 @@ help = [
   '<span class="command">logs</span>           View Goliath Mission Logs',
   '<span class="command">clear</span>          Clear terminal',
   '<span class="command">home</span>           Display the Homescreen',
-  '<span class="command">help</span>           Show available Commands',
+  '<span class="command">kroak</span>          Show available Commands',
   "<br>",
   '<h1 class="command2">scripts (./script.sh)</h1>',
   '<div class="command1"> log1.sh </div></br>',
@@ -226,7 +226,7 @@ banner = [
 '</br>',
 '<span class="color2">Hello World....</span>',
   '<span class="color2">Welcome to TOAD interactive protocol</span>',
-  "<span class=\"color2\">For a list of available commands, type</span> <span class=\"command\">'help'</span><span class=\"color2\">.</span>",
+  "<span class=\"color2\">For a list of available commands, type</span> <span class=\"command\">'kroak'</span><span class=\"color2\">.</span>",
 ];
 
 
