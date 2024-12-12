@@ -29,7 +29,7 @@ dex = [
 ];
 ca = [
     "<br>",
-    '<a class="color1" title="Copy Text" id="text" onclick="copyElementText(this.id)">Ongoing Transmission</a>',
+    '<a class="color1" title="Copy Text" id="text" onclick="copyElementText(this.id)">HBrMHyw5vE3pibYtjGUZDWB4gBxtFp9DvFkFZS5vpump</a>',
     "<br>"
   ];
 ribbit = [
@@ -37,7 +37,7 @@ ribbit = [
   "$Goliath",
   '𝕏        <a href="' + twitter + '" target="_blank">twitter/toadprotocol' + '</a>',
   "contract address (Click to Copy): ticker $Goliath",
-  '<a class="color1" title="Copy Text" id="text" onclick="copyElementText(this.id)">Ongoing Transmission</a>',
+  '<a class="color1" title="Copy Text" id="text" onclick="copyElementText(this.id)">HBrMHyw5vE3pibYtjGUZDWB4gBxtFp9DvFkFZS5vpump</a>',
   "<br>"
 ];
 social = [
